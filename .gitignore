@@ -1,0 +1,5 @@
+# Archivos HTML
+*.html
+
+# Carpeta de salida
+output/
