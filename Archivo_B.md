@@ -7,4 +7,5 @@ fin del archivo en la 2da version
 Edicion en una tercera version sobre rama branch
 
 agrega en la rama de prueba
-{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+editado en la rama de prueba (conflictos ya resueltos)
