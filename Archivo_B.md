@@ -5,5 +5,4 @@ se encuentra en la rama master
 fin del archivo en la 2da version
 
 
-agrega en la rama de prueba
-{}{}{}{}{}{}{}{}{}{}{}{}{}
+editado en la rama de prueba
